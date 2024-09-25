@@ -29,7 +29,5 @@ The project has the following directory structure:
 
 To add a new circuit, run the **newcircuit** hardhat task: `npx hardhat newcircuit --name newcircuit`. This will autogenerate the necessary configuration and directories for the new circuit.
 
-This project provides a step-by-step guide to creating and verifying a ZKP circuit using Circom and deploying it to the blockchain. 
-
 ## Author
 Ankit Singh(email-superakt2003@gmail.com)
